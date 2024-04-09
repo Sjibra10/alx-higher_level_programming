@@ -1,3 +1,3 @@
 Month 3
 
-Python introduction
+Java Script introduction
